@@ -8,6 +8,7 @@
 * Every function has a small documentation inside for every object and utility.
 * Csv file contains every tweet we processed through.
 * Html file, contains a map with live locations and text from all the tweets we processed.
+* On Html file, red marker defines a negative tweet, green marker a positive one ans gray marker on that's close to negative.
 * In Stats file u can find some prtsrcns with statistics.
 
 * Project implemeted with these small steps :
